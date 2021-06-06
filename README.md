@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Premshankar Shah</h1>
-<h3 align="center">A passionate INFORMATION TECHNOLOGY STUDENT</h3>
+<h1 align="center">Hi 👋, I'm Premshankar Shah</h1>
+<h3 align="center">A passionate Information technology student</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prem2412&color=blueviolet&style=flat">
