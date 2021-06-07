@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Prem2412&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **FULL STACK, MYS SQL, etc.**
+- 🌱 I’m currently learning **FULL STACK, My SQL, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Prem2412?tab=repositories)
 
